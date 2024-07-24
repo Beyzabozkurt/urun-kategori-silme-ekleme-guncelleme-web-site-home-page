@@ -10,7 +10,7 @@ namespace StajTest.DBManager
         Task<List<ProductDto>> UrunListele(int categoryId);
 
         Task<LoginDto> Login(LoginInput input);
-        Task Logout();
+        //Task Logout();
     }
 
     public class LoginDto

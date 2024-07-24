@@ -51,15 +51,15 @@ namespace StajTest.Services
             return new OkObjectResult(result);
               
         }
-        [HttpPost]
-        [Route("Logout")]
-        public async Task<IActionResult> Logout()
-        {
+        //[HttpPost]
+        //[Route("Logout")]
+        //public async Task<IActionResult> Logout()
+        //{
             
-             await _dapperManager.Logout();
+        //     await _dapperManager.Logout();
 
-            return new OkResult();
-        }
+        //    return new OkResult();
+        //}
 
     }
 }
