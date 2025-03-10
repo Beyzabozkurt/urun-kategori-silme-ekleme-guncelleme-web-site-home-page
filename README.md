@@ -64,3 +64,14 @@ Deploying an ABP application is not different than deploying any .NET or ASP.NET
 You can see the following resources to learn more about your solution and the ABP Framework:
 
 * [Application (Single Layer) Startup Template](https://docs.abp.io/en/abp/latest/Startup-Templates/Application-Single-Layer)
+
+
+![Image](https://github.com/user-attachments/assets/032caad0-2943-4f06-a3a7-bf7d76bd6d3e)
+
+![Image](https://github.com/user-attachments/assets/f62f8043-f313-4e75-b1ee-9e5768b60a2b)
+
+![Image](https://github.com/user-attachments/assets/275e7391-24b5-42fc-857c-31abd00dde23)
+
+![Image](https://github.com/user-attachments/assets/24de6b51-c6a5-4494-80bc-8248ab1eacc7)
+
+![Image](https://github.com/user-attachments/assets/3afcfdc4-7b65-4dd1-b4b2-c2dfcc1a39c8)
